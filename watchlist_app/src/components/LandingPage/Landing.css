@@ -1,0 +1,12 @@
+.landing-container {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing-text {
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+  text-align: center;
+}
